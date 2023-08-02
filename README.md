@@ -2,7 +2,6 @@
 
 ![Aruco Marker](https://github.com/ender-yagcilar/Drone-Marker-Landing/assets/136696120/87fc995d-9b5d-40d8-bf9b-7ff7662dbbe3)
 
-
 ## Requirements:
 - OpenCV
 - MAVROS
