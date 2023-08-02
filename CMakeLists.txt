@@ -33,7 +33,7 @@ SET(vision_HEADERS src/vision/vision.h)
 SET(vision_SOURCES src/vision/vision.cpp)
 
 SET(drone_HEADERS src/drone/drone.h)
-SET(drone_SOURCES src/drone/drone.cpp src/drone/attitude.cpp src/drone/landing.cpp)
+SET(drone_SOURCES src/drone/drone.cpp src/drone/landing.cpp)
 
 
 
