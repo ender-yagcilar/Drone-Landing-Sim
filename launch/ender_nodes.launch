@@ -1,0 +1,7 @@
+<launch>
+  <!-- Start the vision_node -->
+  <node name="vision_node" pkg="drone_pkg" type="vision_node" output="screen" />
+
+  <!-- Start the drone_node -->
+  <node name="drone_node" pkg="drone_pkg" type="drone_node" output="screen" />
+</launch>
