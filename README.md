@@ -1,6 +1,6 @@
 # ArUco Marker Landing Algorithm using ROS Noetic, OpenCV, MAVROS (C++)
 
-![ArUco Marker]![MarkerData_50](https://github.com/ender-yagcilar/Drone-Marker-Landing/assets/136696120/87fc995d-9b5d-40d8-bf9b-7ff7662dbbe3)
+![ArUco Marker][MarkerData_50](https://github.com/ender-yagcilar/Drone-Marker-Landing/assets/136696120/87fc995d-9b5d-40d8-bf9b-7ff7662dbbe3)
 
 
 ## Requirements:
